@@ -11,6 +11,7 @@
       "no-var": 0
     },
     "extends": [
-      "airbnb"
+       "eslint:recommended", 
+       "plugin:react/recommended"
     ]
 }
